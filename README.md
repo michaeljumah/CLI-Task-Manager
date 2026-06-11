@@ -2,17 +2,7 @@
 Build a CLI task manager using linked lists, stacks, queues, and sorting algorithms.
 
 michael jumah
-
-Terminal square icon
-DIFFICULTY
-easy
-TIME
-50 min
-REFRESHED
 10th Jun '26
-COST
-Free
-📣 Whoa! Welcome to our new beta feature!
 
 This is a NextWork project generated with AI. It's a new feature and may have some bugs. If you spot anything, please let us know in our community. We're improving this everyday and really want to hear what you'd like to see us fix next. Happy learning.
 
