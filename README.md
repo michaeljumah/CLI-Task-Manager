@@ -41,9 +41,7 @@ In this step, get ready to:
 Install or verify Python 3.14.
 Create your project folder and file.
 Confirm Python can run your file.
-✍️ What are we doing in this project?
-I am building a... using custom data structures like... because...
-1000
+
 
 Tasks still to complete
 
