@@ -274,13 +274,6 @@ Save task_manager.py.
 
 Run python task_manager.py in your terminal. You should see no output (the script loads without errors).
 
-Seeing a SyntaxError?
-
-Check that your indentation uses consistent spaces (4 spaces per level, no tabs mixed in).
-
-Make sure class Node: and class LinkedList: are at the top level (no leading spaces).
-
-
 
 Add the delete method inside the LinkedList class, below the append method:
 
