@@ -196,16 +196,6 @@ Confirm your terminal is inside the task-manager folder. Run cd task-manager if 
 If you see python: command not found, try python3 task_manager.py instead. Some systems use python3 as the default command.
 
 
-
-✔️ Awesome, I've got everything!
-ⓧ I'd like to double check the full code
-Great. Double check you have saved your file before moving on.
-
-📸 Take a screenshot of your terminal showing the output of python task_manager.py.
-No file chosen
-PNG or JPG (max. 10MB)
-
-
 Tasks still to complete
 
 Return to later
