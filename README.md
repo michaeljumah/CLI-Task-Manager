@@ -196,16 +196,6 @@ Confirm your terminal is inside the task-manager folder. Run cd task-manager if 
 If you see python: command not found, try python3 task_manager.py instead. Some systems use python3 as the default command.
 
 
-
-✔️ Awesome, I've got everything!
-ⓧ I'd like to double check the full code
-Great. Double check you have saved your file before moving on.
-
-📸 Take a screenshot of your terminal showing the output of python task_manager.py.
-No file chosen
-PNG or JPG (max. 10MB)
-
-
 Tasks still to complete
 
 Return to later
@@ -273,13 +263,6 @@ append creates a new Node, then walks the chain to find the last node and attach
 Save task_manager.py.
 
 Run python task_manager.py in your terminal. You should see no output (the script loads without errors).
-
-Seeing a SyntaxError?
-
-Check that your indentation uses consistent spaces (4 spaces per level, no tabs mixed in).
-
-Make sure class Node: and class LinkedList: are at the top level (no leading spaces).
-
 
 
 Add the delete method inside the LinkedList class, below the append method:
