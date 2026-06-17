@@ -6,7 +6,7 @@ michael jumah
 
 This is a NextWork project generated with AI. It's a new feature and may have some bugs. If you spot anything, please let us know in our community. We're improving this everyday and really want to hear what you'd like to see us fix next. Happy learning.
 
-30 Second Summary
+Summary
 Every app you use manages data behind the scenes. Whether it's your email inbox processing messages in order or your browser's back button remembering where you've been, data structures are the invisible engines making it all work.
 
 In this project, you will build a command-line Task Manager in Python using data structures you implement from scratch. You'll create your own linked list, stack, and queue, then apply sorting and searching algorithms to manage tasks efficiently.
