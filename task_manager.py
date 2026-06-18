@@ -13,6 +13,7 @@ class LinkedList:
         if not self.head:
             self.head = new_node
             return
+        current = self.head
 
     
 
