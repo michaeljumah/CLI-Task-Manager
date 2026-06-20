@@ -299,12 +299,6 @@ Returns the removed task's data, or None if the name wasn't found.
 
 Save task_manager.py and run python task_manager.py. You should see no output and no errors.
 
-Getting an IndentationError?
-
-The delete method must be indented one level inside the LinkedList class (4 spaces before def).
-
-Lines inside delete need 8 spaces of indentation (4 for the class, 4 for the method body).
-
 
 
 Add the display and length methods below delete:
